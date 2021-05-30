@@ -1,0 +1,3 @@
+- 👋 Oi, Eu sou @Davison17!
+- 👀 Estou interessado na área de programação.
+- 🌱 Estou atualmente aprendendo python, html, c++ e javascript.
